@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my editing in file1.txt but again in master
+=======
+my editing in file1.txt in feature branch
+>>>>>>> feature
